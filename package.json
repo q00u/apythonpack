@@ -1,0 +1,38 @@
+{
+    "name": "apythonpack",
+    "displayName": "A Python Pack",
+    "description": "The extensions I use when programming Python stuff",
+    "publisher": "q00u",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "icon": "Python-logo-notext_128.png",
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "Python",
+        "Anaconda"
+    ],
+    "repository": {
+        "url": "https://github.com/q00u/apythonpack"
+    },
+    "homepage": "https://github.com/q00u/apythonpack",
+    "bugs": {
+        "url": "https://github.com/q00u/apythonpack/issues"
+    },
+    "extensionPack": [ 
+        "ms-python.python",
+        "magicstack.MagicPython",
+        "wholroyd.jinja",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "redhat.vscode-yaml",
+        "almenon.arepl",
+        "mgesbert.python-path",
+        "kevinrose.vsc-python-indent",
+        "dongli.python-preview",
+        "batisteo.vscode-django",
+        "matangover.mypy"
+    ]
+}
